@@ -1,6 +1,6 @@
 name: Deploy Cora Agent
 
-on:
+'on':
   push:
     paths:
       - 'src/prompts/ShopperAgentPrompt.txt'

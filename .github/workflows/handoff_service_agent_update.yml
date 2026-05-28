@@ -1,6 +1,6 @@
 name: Deploy Handoff Service Agent
 
-on:
+'on':
   push:
     paths:
       - 'src/prompts/HandoffAgentPrompt.txt'
